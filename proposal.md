@@ -16,7 +16,8 @@
 Aplicación web que permite a usuarios solicitar, reprogramar o cancelar turnos en tiempo real y a los profesionales gestionar sus agendas de atención. Permite la gestión eficiente de citas médicas mediante una interfaz intuitiva y accesible para pacientes y profesionales. Los pacientes podrán buscar médicos según la especialidad, fecha o disponibilidad horaria, además de filtrar turnos por día. *
 
 ### Modelo
-<img width="722" height="956" alt="MD DDS drawio" src="https://github.com/user-attachments/assets/37901185-11fb-44d3-b6b6-bc5654fbb556" />
+
+<img width="722" height="966" alt="TurnosMedicos drawio" src="https://github.com/user-attachments/assets/6604490b-e629-49e0-8ff6-60091af12fdb" />
 https://drive.google.com/file/d/1Tue00I5WeKPDh1CvGHylC-U-Pm6hb9kB/view
 
 ## Alcance Funcional 
